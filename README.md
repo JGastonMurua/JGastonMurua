@@ -21,6 +21,8 @@ const jorge = {
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -32,6 +34,7 @@ const jorge = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,10 +45,30 @@ const jorge = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![AlwaysData](https://img.shields.io/badge/AlwaysData-FF6B35?style=for-the-badge&logo=server&logoColor=white)
 
 ### Testing & QA
-![Testing](https://img.shields.io/badge/Manual_Testing-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
-![QA](https://img.shields.io/badge/QA_Testing-FF6B6B?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![QA Testing](https://img.shields.io/badge/QA_Testing-FF6B6B?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+### Metodologías
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Waterfall](https://img.shields.io/badge/Waterfall-8B4513?style=for-the-badge&logo=workflow&logoColor=white)
+
+### IoT & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-34495E?style=for-the-badge&logo=internetofthings&logoColor=white)
+
+### Otras Competencias
+![APIs](https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge&logo=api&logoColor=white)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-7367F0?style=for-the-badge&logo=javascript&logoColor=white)
+![English](https://img.shields.io/badge/English-Technical-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+</div>
 
 ---
 
@@ -56,6 +79,18 @@ const jorge = {
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGastonMurua&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGastonMurua&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🔥 Actividad GitHub
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JGastonMurua&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JGastonMurua&bg_color=0d1117&color=9f7aea&line=9f7aea&point=9f7aea&area=true&hide_border=true&theme=github-compact)
 
 </div>
 
@@ -83,7 +118,7 @@ Proyecto de tienda online con React
 - **Tech Stack:** React, JavaScript, CSS
 - **Características:** SPA, componentes reutilizables, estado global
 
-### 🎮 [Consumidor de API MarioDB](https://github.com/JGastonMurua/ConsumerApi-MarioDB)
+### 🔗 [Consumidor de API MarioDB](https://github.com/JGastonMurua/ConsumerApi-MarioDB)
 Integración con bases de datos externas
 - **Tech Stack:** Python, API Integration, Database Management
 - **Características:** Conexión a APIs, procesamiento de datos
@@ -99,6 +134,7 @@ Integración con bases de datos externas
 🔄 **QA Testing** - En curso (2025)  
 ⚡ **Node.js Development** - En curso (2025)  
 ⚛️ **React Development** - TalentoTech (2025)  
+🐘 **PHP con MySQL** - Tecno3F (2025)
 
 ---
 
@@ -106,11 +142,23 @@ Integración con bases de datos externas
 
 Soy un desarrollador apasionado por la tecnología con una transición única desde el sector logístico al desarrollo de software. Mis **10+ años de experiencia** resolviendo problemas complejos me brindan una perspectiva única para crear soluciones eficientes.
 
-### 🎯 Fortalezas clave:
-- 🧩 **Problem Solving:** Resolución de problemas bajo presión
-- 🔄 **Adaptabilidad:** Rápida adopción de nuevas tecnologías  
-- 👥 **Trabajo en equipo:** Experiencia en entornos colaborativos
-- 📚 **Aprendizaje continuo:** Constante actualización de conocimientos
+### 🎯 Habilidades Técnicas & Blandas:
+
+<div align="center">
+
+#### 💻 Competencias Técnicas
+🔧 **Problem Solving** • 🌐 **Full Stack Development** • 🔍 **Testing Manual** • 📡 **APIs REST**  
+🎨 **UI/UX Responsive** • 🤖 **IoT & Arduino** • ☁️ **Cloud Deployment** • 📊 **Database Management**  
+🚀 **Deployment Platforms** (Vercel, AlwaysData, AWS) • 🔗 **Blynk IoT** • 🎯 **SweetAlert2**
+
+#### 🧠 Habilidades Blandas
+💪 **Compromiso** • 🎨 **Creatividad e Innovación** • ✨ **Actitud Positiva** • 📚 **Aprendizaje Continuo**  
+👥 **Trabajo en Equipo** • 🎯 **Responsabilidad** • 🔄 **Adaptabilidad** • 🗣️ **Comunicación Efectiva**
+
+#### 🌐 Idiomas
+🇪🇸 **Español (Nativo)** • 🇺🇸 **Inglés Técnico**
+
+</div>
 
 ---
 
