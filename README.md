@@ -117,12 +117,12 @@ Sistema de autenticación y gestión de usuarios con operaciones CRUD y manejo d
 🎓 **Técnico Superior en Desarrollo de Software** — IFTS N°4 · 2024
 
 **Certificaciones:**
-- n8n y automatizaciones de flujos de trabajo — 2025
+- n8n y automatizaciones de flujos de trabajo — 2026
 - React — TalentoTech · 2025
 - PHP con MySQL — Tecno3F · 2025
 - QA Testing manual y automatizado — 2025
-- Ciberseguridad con IA — 2025
-- Marketing digital con IA — 2025
+- Ciberseguridad con IA — 2026
+- Marketing digital con IA — 2026
 - Fundamentos de AWS — AWS Academy · 2023
 - IoT y Robótica con Arduino — Tecno3F · 2024
 
