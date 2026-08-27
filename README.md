@@ -29,10 +29,10 @@ const jorge = {
 
 ## Proyectos en producción
 
-**[GTresIA](https://gtresia.com)** — Agencia propia de automatización con inteligencia artificial para PyMEs argentinas. Flujos con n8n y agentes de IA para procesos de negocio reales.
+**[GTresIA](https://gtresia.com)** — Agencia propia de automatización con inteligencia artificial para PyMEs. Flujos con n8n y agentes de IA para procesos de negocio reales.
 `Next.js` `TypeScript` `n8n` `IA / LLMs`
 
-**[GTresD](https://gtresd.com)** — Emprendimiento propio de impresión 3D personalizada en Merlo, Buenos Aires. Tienda online con catálogo, venta en Mercado Libre y redes. 5.0 en reseñas de Google.
+**[GTresD](https://gtresd.com)** — Emprendimiento propio de impresión 3D personalizada. Tienda online con catálogo, pedidos a medida, venta en Mercado Libre y redes. 5.0 en reseñas de Google.
 `Next.js` `React` `E-commerce`
 
 **[Boxeo Universal Park](https://boxeouniversalpark.vercel.app)** — Sitio web institucional para un club de boxeo: información del gimnasio, horarios, categorías y contacto.
