@@ -8,7 +8,7 @@ Merlo, Buenos Aires, Argentina
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jgastonmurua)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gastton.murua@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-e3a857?style=flat-square&logo=googlechrome&logoColor=white)](https://jgastonmurua.github.io/Porfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e3a857?style=flat-square&logo=googlechrome&logoColor=white)](https://jorge-gaston-murua.gtresia.com/)
 
 </div>
 
@@ -41,7 +41,7 @@ const jorge = {
 **[TechStore E-commerce](https://jgastonmurua.github.io/techstore-ecommerce/)** — E-commerce completo con catálogo, carrito interactivo y diseño responsive. Backend en PHP con MySQL.
 `React` `JavaScript` `PHP` `MySQL`
 
-**[Portfolio](https://jgastonmurua.github.io/Porfolio/)** — Este mismo portfolio: dark/light mode, bilingüe ES/EN, animaciones y formulario de contacto. 100% vanilla JS, sin frameworks.
+**[Portfolio](https://jorge-gaston-murua.gtresia.com/)** — Este mismo portfolio: dark/light mode, bilingüe ES/EN, animaciones y formulario de contacto. 100% vanilla JS, sin frameworks.
 `HTML5` `CSS3` `JavaScript`
 
 ---
